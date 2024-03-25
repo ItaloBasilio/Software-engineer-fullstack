@@ -14,7 +14,7 @@ module.exports = {
   },
 
   rules: {
-    camelCase: 'off'
+    camelCase: 'on'
   }
 
 
